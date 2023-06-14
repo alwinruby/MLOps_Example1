@@ -1,1 +1,4 @@
-# MLOps_Example1
+# MLOps Example1
+
+
+Simple example of MLOps
